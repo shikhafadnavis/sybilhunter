@@ -1,0 +1,72 @@
+<data>
+
+<node1>
+	<ip>208.16.7.9</ip>
+	<port>8080</port>
+	<bw>60</bw>
+	<fingerprint>ahgda56e</fingerprint>
+<fingerprint>ahgda56e</fingerprint><fingerprint>ahgda56e</fingerprint><fingerprint>ahgda56e</fingerprint><fingerprint>ahgda56e</fingerprint></node1>
+
+<node2>
+	<ip>201.15.7.9</ip>
+	<port>1443</port>
+	<bw>73</bw>
+	<fingerprint>hbj672</fingerprint>
+<fingerprint>ux6ftuuilv</fingerprint><fingerprint>ejo5ld9jn8</fingerprint><fingerprint>yaf5b6issb</fingerprint><fingerprint>tq91b9nznt</fingerprint></node2>
+
+<node3>
+	<ip>241.15.63.7</ip>
+	<port>1443</port>
+	<bw>50</bw>
+	<fingerprint>dkfglhg88</fingerprint>
+<fingerprint>8qjjzkxqg4</fingerprint><fingerprint>nyeirk0f6x</fingerprint><fingerprint>brwwbnra1u</fingerprint><fingerprint>50pe2hsosy</fingerprint></node3>
+
+<node4>
+	<ip>100.4.32.6</ip>
+	<port>8080</port>
+	<bw>80</bw>
+	<fingerprint>ahgda56e</fingerprint>
+<fingerprint>ahgda56e</fingerprint><fingerprint>ahgda56e</fingerprint><fingerprint>ahgda56e</fingerprint><fingerprint>ahgda56e</fingerprint></node4>
+
+<node5>
+	<ip>133.5.83.6</ip>
+	<port>8080</port>
+	<bw>67</bw>
+	<fingerprint>asdacnb56e</fingerprint>
+<fingerprint>asdacnb56e</fingerprint><fingerprint>asdacnb56e</fingerprint><fingerprint>asdacnb56e</fingerprint><fingerprint>asdacnb56e</fingerprint></node5>
+
+<node6>
+	<ip>60.43.32.7</ip>
+	<port>8080</port>
+	<bw>100</bw>
+	<fingerprint>xfsdgda56e</fingerprint>
+<fingerprint>xfsdgda56e</fingerprint><fingerprint>xfsdgda56e</fingerprint><fingerprint>xfsdgda56e</fingerprint><fingerprint>xfsdgda56e</fingerprint></node6>
+
+<node7>
+	<ip>95.4.5.123</ip>
+	<port>1443</port>
+	<bw>50</bw>
+	<fingerprint>mljw2a56e</fingerprint>
+<fingerprint>h1th5idvjm</fingerprint><fingerprint>qol6odum8c</fingerprint><fingerprint>wuzvw8riqn</fingerprint><fingerprint>zwsdtyq8bh</fingerprint></node7>
+
+<node8>
+	<ip>13.4.2.76</ip>
+	<port>8080</port>
+	<bw>78</bw>
+	<fingerprint>qw23da56e</fingerprint>
+<fingerprint>qw23da56e</fingerprint><fingerprint>qw23da56e</fingerprint><fingerprint>qw23da56e</fingerprint><fingerprint>qw23da56e</fingerprint></node8>
+
+<node9>
+	<ip>100.12.24.68</ip>
+	<port>1443</port>
+	<bw>80</bw>
+	<fingerprint>ds56bgfae</fingerprint>
+<fingerprint>qgps013zyi</fingerprint><fingerprint>diep4ryib9</fingerprint><fingerprint>s4yuhl7xze</fingerprint><fingerprint>b22vhh5jgg</fingerprint></node9>
+
+<node10>
+	<ip>53.38.39.40</ip>
+	<port>8080</port>
+	<bw>45</bw>
+	<fingerprint>esdfse565</fingerprint>
+<fingerprint>esdfse565</fingerprint><fingerprint>esdfse565</fingerprint><fingerprint>esdfse565</fingerprint><fingerprint>esdfse565</fingerprint></node10>
+</data>
